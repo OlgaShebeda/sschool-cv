@@ -9,6 +9,7 @@ I am a passionnate and fast learner willing to start a career in IT. i have expe
 
 * C#
 * CSS 
+* SCSS/SASS
 * SQL
 * MySQL
 * Git
@@ -39,8 +40,9 @@ I am a passionnate and fast learner willing to start a career in IT. i have expe
 https://github.com/OlgaShebeda
 
 thesis papers,
-coursework
+coursework,
+museum, portfolio
 
 Master, Brest State University, Brest
 
- A1+,A2
+A2+
