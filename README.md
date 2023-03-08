@@ -1,3 +1,3 @@
-https://olgashebeda.github.io/rsschool-cv/cv
+https://olgashebeda.github.io/sschool-cv/cv
 
-https://olgashebeda.github.io/rsschool-cv/
+https://olgashebeda.github.io/sschool-cv/
